@@ -6,7 +6,7 @@ const Page = async () => {
     const searchParams = useSearchParams();
     const origin = searchParams.get('origin');
 
-
+    
 }
 
 export default Page
